@@ -13,7 +13,7 @@ __Technologies__
 * [NodeMCU-falsher (only for Windows)](https://github.com/nodemcu/nodemcu-flasher)
  
 ## Backend
-Will host the UI, a REST api to manage users, boards and their configuration. Also interact with board anytime the user request it or following some simple business logic/schedule.
+Will host the UI, a REST api to manage users, boards and their configuration. Also interact with board anytime the user request it or following some simple business logic/schedule..
 
 __Technologies__
 * Java 8 
